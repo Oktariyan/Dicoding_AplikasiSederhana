@@ -1,0 +1,113 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Waifu</string>
+
+    <string name="prosthetic_name">Prosthetic Tool</string>
+    <string name="flavor_text">Description</string>
+
+    <string name="about">about</string>
+    <string name="email">a284b4ky3461@bangkit.academy</string>
+    <string name="name">Oktariyan Nur Saputra</string>
+
+
+    <string name="heroes_name">My Waifu</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Feixiao</item>
+        <item>Firefly</item>
+        <item>Fu Xuan</item>
+        <item>Jingliu</item>
+        <item>Lingsha</item>
+        <item>Robin</item>
+        <item>Ruan Mei</item>
+        <item>Seele</item>
+        <item>Silver Wolf</item>
+        <item>Sparkle</item>
+        <item>Topaz</item>
+        <item>Yunli</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rarity = 5 Stars
+            Path = The Hunt
+            Type = Wind
+            Release Date = September 10, 2024
+            Yaoqing, salah satu jenderal dari Tujuh Jenderal Arbiter di Merlin s Claw Xianzhou, adalah seorang yang tidak bisa dikekang, lugas, dan berjiwa bebas. Dia menguasai berbagai teknik bela diri, melatih dirinya hingga tingkat tertinggi, dan dikenal dengan sebutan "Jenderal Hebat". Dia sangat dicintai oleh tentara dan penduduk Xianzhou. Namun dia menderita "Moon Rage". Jika dia ingin memburu semua Abomination dalam waktu hidupnya yang terbatas, maka satu-satunya musuh Feixiao adalah dirinya sendiri.</item>
+        <item>Rarity = 5 Stars
+            Path = Destruction
+            Type = Fire
+            Release Date = June 19, 2024
+            Seorang gadis anggota Stellaron Hunter yang mengenakan zirah mekanis "SAM".Terlahir sebagai senjata, dia menderita "Gangguan Entropi" akibat modifikasi genetik.Dia bergabung dengan Stellaron Hunter untuk mencari makna kehidupan, dan mengejar cara untuk melawan takdir tanpa henti.</item>
+        <item>Rarity = 5 Stars
+            Path =  Preservation
+            Type = Quantum
+            Release Date = September 20, 2023
+            Kepala dari Divination Commission Xianzhou “Luofu”. Orang bijak yang percaya diri dan blak-blakan. Dengan menggunakan mata ketiga dan Matrix of Prescience untuk memperhitungkan jalur rute Xianzhou dan memprediksi masa depan, dia percaya kalau segala yang dia lakukan adalah “yang terbaik” untuk permasalahan. Fu Xuan sedang menantikan “abdikasi” yang dijanjikan oleh Jenderal. Tapi sepertinya, hari itu masih … sangat jauh.</item>
+        <item>Rarity = 5 Stars
+            Path = Destruction
+            Type = Ice
+            Release Date = October 11, 2023
+            Salah satu dari “Lima Petinggi Cloud” yang legendaris, dengan gelar “Transcendent Flash”. Dia telah melampaui konflik duniawi, dan memilih menempuh jalan yang berbeda untuk memperoleh kekuatan yang dapat mengalahkan “dewa”. Setelah itu, catatan Xianzhou berkurang satu “Sang Juara Pedang” Xianzhou dan bertambah satu “pengkhianat” yang namanya dihapus.</item>
+        <item>Rarity = 5 Stars
+            Path =  Abundance
+            Type = Fire
+            Release Date = Upcoming Character
+            Master Tungku baru di Alchemy Commission Xianzhou “Luofu”. Seorang dokter Vidyadhara yang cerdik dan bijaksana. Dia memiliki indra penciuman yang tajam dan sangat memanfaatkan aromaterapi untuk meningkatkan pikiran, serta menggunakan aromanya untuk mengidentifikasi penyakit orang lain. Pandai mengatur hubungan interpersonal yang rumit serta hatinya dipenuhi amarah, dia akan selalu tetap tenang.</item>
+        <item>Rarity = 5 Stars
+            Path = Harmony
+            Type = Physical
+            Release Date = May 08, 2024
+            Gadis yang anggun ini adalah penyanyi Halovian yang lahir di Penacony dan terkenal di seluruh penjuru alam semesta. Kali ini dia diundang oleh Family untuk kembali ke kampung halamannya dan mempersembahkan sebuah lagu di “Festival Charmony”. Dia bisa menggunakan kekuatan “Harmony” untuk menyebarkan nyanyiannya, dan mewujudkan “resonansi” bukan hanya di antara para penggemarnya, tapi bahkan di antara segala makhluk hidup.</item>
+        <item>Rarity = 5 Stars
+            Path = Harmony
+            Type = Ice
+            Release Date = December 27, 2023
+            Seorang sarjana yang lemah lembut dan anggun. Anggota ke-81 “Genius Society”, ahli dalam bidang ilmu kehidupan. Dia mendapatkan perhatian Nous berkat bakat dan dedikasinya yang luar biasa. Dia memulai studi dan penjelajahannya tentang asal usul kehidupan di sebuah sudut rahasia. Jadi dia diundang oleh Herta karena hal tersebut, dan berkolaborasi mengembangkan “Simulated Universe” bersama dengan Screwllum dan Stephen. Dia diam-diam sangat menyukai drama dan camilan tradisional, dia juga sangat tertarik dengan sulaman.</item>
+        <item>Rarity = 5 Stars
+            Path = The Hunt
+            Type = Quantum
+            Release Date = April 26, 2023
+            Anggota “Wildfire” yang bersemangat dan gagah berani. Dia tumbuh di lingkungan Underworld yang berbahaya dan terbiasa melakukan segala hal sendirian. Melindungi dan dilindungi, menekan dan ditekan, segala hal yang ditunjukkan dunia pada Seele sesederhana itu … bukan hitam, berarti putih. Sampai kemudian “gadis itu” muncul.</item>
+        <item>Rarity = 5 Stars
+            Path = Nihility
+            Type = Quantum
+            Release Date = June 07, 2023
+            Peretas hebat yang menganggap alam semesta sebagai permainan. Sistem pertahanan serumit apa pun dapat dipecahkan Silver Wolf dengan mudah. Pertarungan serangan peretasan dan pertahanan antara dia dan Screwllum dari “Genius Society” telah menjadi legenda di dunia peretas. Berapa banyak lagi level yang harus dikalahkan di alam semesta? Silver Wolf sangat menantikannya.</item>
+        <item>Rarity = 5 Stars
+            Path = Harmony
+            Type = Quantum
+            Release Date = February 29, 2024
+            Salah satu anggota “Masked Fool” yang sulit diprediksi dan selalu menghalalkan segala cara untuk mencapai tujuannya. Maestro drama yang berbahaya, terobsesi dengan akting, memakai ribuan topeng dan dapat berubah menjadi ribuan wajah. Harta, takhta, kuasa … Bagi Sparkle, semua itu tidak penting. Yang bisa membuatnya bertindak hanyalah “keseruan”.</item>
+        <item>Rarity = 5 Stars
+            Path = The Hunt
+            Type = Fire
+            Release Date = October 27, 2023
+            Topaz adalah manajer tingkat tinggi “Departemen Investasi Strategis” di bawah Interastral Peace Corporation, dan juga pemimpin dari Tim Piket Utang Khusus. Menjadi salah satu anggota “Sepuluh Orang Berhati Batu” di usia yang muda, bidang keahlian Topaz adalah “menagih utang”. Rekannya, Warp Trotter yang bernama “Numby”, memiliki kemampuan untuk melihat keberadaan “kekayaan”. Pekerjaan yang berhubungan dengan keamanan, menagih utang, atau akuntansi tidak akan menjadi masalah.</item>
+        <item>Rarity = 5 Stars
+            Path = Destruction
+            Type = Physical
+            Release Date = July 31, 2024
+            Seorang pemburu pedang dari Xianzhou “Zhuming” dan cucu perempuan kesayangan “Flaming Heart”, Jenderal Huaiyan. Memiliki kepribadian yang jujur dan terus terang. Dia belajar ilmu pedang dan seni menempa dengan Huaiyan sejak kecil, dan adalah ahli pedang jenius yang kedua paling muda di “Flamewheel Octet”. Memiliki kebencian mendalam terhadap pedang-pedang terkutuk yang beredar dari Zhuming, dan bersumpah untuk “memburu dan melenyapkan semua pedang terkutuk”.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/feixiao2</item>
+        <item>@drawable/firefly2</item>
+        <item>@drawable/fu_xuan2</item>
+        <item>@drawable/jingliu2</item>
+        <item>@drawable/lingsha2</item>
+        <item>@drawable/robin2</item>
+        <item>@drawable/ruan_mai2</item>
+        <item>@drawable/seele2</item>
+        <item>@drawable/silver_wolf2</item>
+        <item>@drawable/sparkle2</item>
+        <item>@drawable/topas2</item>
+        <item>@drawable/yunli2</item>
+    </integer-array>
+
+</resources>
